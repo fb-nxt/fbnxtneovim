@@ -1,4 +1,7 @@
-# 💤 LazyVim
+# 额外配置
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## go语言相关LSP
+
+## opencode相关配置
+
+## markdown相关配置
